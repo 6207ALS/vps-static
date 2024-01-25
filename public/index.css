@@ -3,8 +3,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-
-	background-color: rgb(75, 132, 255);
+	background-color: rgb(118, 154, 255);
 }
 
 h1 {
